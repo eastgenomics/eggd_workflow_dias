@@ -1,11 +1,7 @@
 {
-  "name": "dias_multi_v1.0.0",
-  "title": "dias_multi_v1.0.0",
+  "name": "dias_multi_v1.1.0",
+  "title": "dias_multi_v1.1.0",
   "stages": [
-    {
-      "id": "stage-FpPQpk8433GZz7615xq3FyvF",
-      "executable": "applet-Fq1BQ30433Gv6gzY6f722K36"
-    },
     {
       "id": "stage-Fpz3Jqj433Gpv7yQFfKz5f8g",
       "executable": "applet-Fpk6vv0433GkPzBf7kq6X1pv"
